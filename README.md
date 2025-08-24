@@ -2,9 +2,9 @@
 
 **Login Details**
 
-**Username: siddappa**
+**Username: padmaja**
 <br>
-**Password:siddu123.**
+**Password:padmaja123.**
 
 **Description:**
 
@@ -46,7 +46,7 @@ Flappy Bird Game is a classic arcade game developed using Pygame, a popular Pyth
 
 **Contributors:**
 
-- [Siddappa]
+- [Padmaja]
 
 **Acknowledgments:**
 
